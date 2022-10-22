@@ -35,7 +35,6 @@ After you submit a form Data goes to DB and also email to pre define email addre
 ## Screenshots
 ![Screenshot (179)](https://user-images.githubusercontent.com/94830418/197356140-1393becd-958b-4914-ba0f-b86fab6c55f6.png)
 ![Screenshot (180)](https://user-images.githubusercontent.com/94830418/197356142-3e04e77d-0108-4629-8323-aa865bfe32a1.png)
-![Screenshot (181)](https://user-images.githubusercontent.com/94830418/197356143-ee7a7e5f-28c0-445e-a8a3-4c289e7cf157.png)
 ![Screenshot (182)](https://user-images.githubusercontent.com/94830418/197356145-0cb6e02c-e7be-4b3a-b149-a420baf19fde.png)
 ![Screenshot (183)](https://user-images.githubusercontent.com/94830418/197356146-12c8ed9a-e740-4c7d-b3a1-a0c054d5d41e.png)
 ![Screenshot (185)](https://user-images.githubusercontent.com/94830418/197356147-04d686b8-59fc-41d2-b7d5-870ee6ef3fc7.png)
