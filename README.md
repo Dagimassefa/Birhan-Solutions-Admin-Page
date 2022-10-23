@@ -32,7 +32,7 @@ After you submit a form Data goes to DB and also email to pre define email addre
 
 **Responsiveness**. For a Responsive website, I used New Framework MaterilizeCss which is from Google.
 
-## Screenshot
+## Screenshots
 ![Screenshot (179)](https://user-images.githubusercontent.com/94830418/197356140-1393becd-958b-4914-ba0f-b86fab6c55f6.png)
 ![Screenshot (180)](https://user-images.githubusercontent.com/94830418/197356142-3e04e77d-0108-4629-8323-aa865bfe32a1.png)
 ![Screenshot (182)](https://user-images.githubusercontent.com/94830418/197356145-0cb6e02c-e7be-4b3a-b149-a420baf19fde.png)
